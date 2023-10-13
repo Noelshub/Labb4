@@ -61,7 +61,7 @@ def spela_igen():
         if k == "ja":
             main()
         else:
-            break
+            return
 
 
 def main():
